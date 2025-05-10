@@ -1,0 +1,71 @@
+AliveCheck:true|Alivecheck
+Ammo:true|Ammo
+BulletNuke:true|Bulletnuke
+FastGame:true|Fastgame
+Nuke:true|Nuke
+NukeEnemy:true|Nukeenemy
+NukeMe:true|Nukeme
+RCS:true|Rcs
+ThirdPerson:true|Thirdperson
+aimonshoot:true|Aimonshoot
+aimvisible:true|Aimvisible
+air:true|Air
+antiaimbool:true|Antiaimbool
+antiwinct:true|Antiwinct
+auto_defuse:true|Auto Defuse
+autowin_ct:true|Autowin Ct
+autowin_tr:true|Autowin Tr
+bunnyhope:true|Bunnyhope
+defaim:true|Defaim
+deffov:true|Deffov
+defuse_anywhere:true|Defuse Anywhere
+dmghack:true|Dmghack
+dontret:true|Dontret
+drawfov:true|Drawfov
+enableRandomizeAim:true|Enablerandomizeaim
+enableSmoothAim:true|Enablesmoothaim
+enemyscales:true|Enemyscales
+esp3dcorners:true|Esp3dcorners
+esparm:true|Esparm
+espbox:true|Espbox
+espcapsule:true|Espcapsule
+espdist:true|Espdist
+espfill:true|Espfill
+espgradient:true|Espgradient
+esphealth:true|Esphealth
+esphpclinet:true|Esphpclinet
+esphpgradient:true|Esphpgradient
+espmoney:true|Espmoney
+espskeleton2:true|Espskeleton2
+esptracer:true|Esptracer
+fast_defuse:true|Fast Defuse
+firerate:true|Firerate
+fovFeature:true|Fovfeature
+getbomb:true|Getbomb
+getbomb2:true|Getbomb2
+glowskeleton:true|Glowskeleton
+godmoderemade:true|Godmoderemade
+hitlogs:true|Hitlogs
+host:true|Host
+insky:true|Insky
+inv:true|Inv
+masskill:true|Masskill
+mescales:true|Mescales
+moveb:true|Moveb
+mytrail:true|Mytrail
+nightmode:true|Nightmode
+noclip:true|Noclip
+oofvis:true|Oofvis
+outoffov:true|Outoffov
+plant_anywhere:true|Plant Anywhere
+playerCircle:true|Playercircle
+playerscalesmenu:true|Playerscalesmenu
+pline:true|Pline
+ragdoll:true|Ragdoll
+rageaim:true|Rageaim
+silentvis:true|Silentvis
+slaim:true|Slaim
+speed_hack:true|Speed Hack
+svaston:true|Svaston
+telekill:true|Telekill
+underground:true|Underground
