@@ -7,7 +7,7 @@ NukeEnemy:true|Enemy Nuke
 NukeMe:true|Self Nuke
 RCS:true|Zero Recoil
 ThirdPerson:true|Set Third-Person View
-aimonshoot:true|Aimonshoot
+aimonshoot:true|Aim on Shoot
 aimvisible:true|Visibility Check ##ra
 air:true|Air-Jump
 antiaimbool:true|Anti-Aim
@@ -54,7 +54,7 @@ mescales:true|Modify Own Size
 moveb:true|Disable Movement Limits
 mytrail:true|Enable Player Trail
 nightmode:true|Enable Night Mode
-noclip:true|Noclip
+noclip:false|Noclip
 oofvis:true|Visible Indicator
 outoffov:true|Out of FOV
 plant_anywhere:true|Plant Anywhere
