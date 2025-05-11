@@ -5,7 +5,7 @@ FastGame:true|Fast Game [Host]
 Nuke:true|Nuke Toggle
 NukeEnemy:true|Enemy Nuke
 NukeMe:true|Self Nuke
-RCS:true|Zero Recoil
+RCS:false|Zero Recoil
 ThirdPerson:true|Set Third-Person View
 aimonshoot:true|Aim on Shoot
 aimvisible:true|Visibility Check ##ra
@@ -58,12 +58,12 @@ noclip:false|Noclip
 oofvis:true|Visible Indicator
 outoffov:true|Out of FOV
 plant_anywhere:true|Plant Anywhere
-playerCircle:true|Playercircle
+playerCircle:true|Show Player Circle
 playerscalesmenu:true|Player Sizes
 pline:true|Show Player Lines
 ragdoll:true|Ragdoll
 silentvis:true|Visibility Check
-slaim:false|Activate Silent Aimbot
+slaim:true|Activate Silent Aimbot
 speed_hack:true|Speed Changer
 svaston:true|Enable Custom Crosshair
 telekill:true|TeleKill
