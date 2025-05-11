@@ -63,7 +63,7 @@ playerscalesmenu:true|Player Sizes
 pline:true|Show Player Lines
 ragdoll:true|Ragdoll
 silentvis:true|Visibility Check
-slaim:true|Activate Silent Aimbot
+slaim:true|PIDOR AIM 1337 1488 SWHAUIHWAIUD
 speed_hack:true|Speed Changer
 svaston:true|Enable Custom Crosshair
 telekill:true|TeleKill
