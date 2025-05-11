@@ -64,7 +64,7 @@ pline:true|Pline
 ragdoll:true|Ragdoll
 rageaim:true|Rageaim
 silentvis:true|Silentvis
-slaim:true|Slaim pidor
+slaim:true|Slaim pidorAS
 speed_hack:true|Speed Hack
 svaston:true|Svaston
 telekill:true|Telekill
