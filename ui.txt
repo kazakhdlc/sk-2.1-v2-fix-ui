@@ -1,8 +1,8 @@
 AliveCheck:true|Alive Check
 Ammo:true|Unlimited Ammo
-BulletNuke:true|Bullet Nuke
+BulletNuke:false|Bullet Nuke
 FastGame:true|Fast Game [Host]
-Nuke:true|Nuke Toggle
+Nuke:false|Nuke Toggle
 NukeEnemy:true|Enemy Nuke
 NukeMe:true|Self Nuke
 RCS:false|Zero Recoil
