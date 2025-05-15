@@ -62,7 +62,7 @@ playerCircle:true|Show Player Circle
 playerscalesmenu:true|Player Sizes
 pline:true|Show Player Lines
 ragdoll:true|Ragdoll
-silentvis:true|Visibility Check
+silentvis:true|404: Not Found
 slaim:true|Activate Silent Aimbot
 speed_hack:true|Speed Changer
 svaston:true|Enable Custom Crosshair
